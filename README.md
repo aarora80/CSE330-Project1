@@ -1,6 +1,6 @@
 VM's Kernels and System Calls
 
-In the Assignment-1 Folder there is the source code and makefiles for the asked steps. Which to my knowledge include:
+There is the source code and makefiles for the asked steps. Which to my knowledge include:
 1. Source code for kernelmodule
 2. Source code for System Call
 3. Source code for Userspace_test Program
